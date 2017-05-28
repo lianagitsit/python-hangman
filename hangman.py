@@ -1,6 +1,7 @@
 import random
 import copy
 
+
 turnCount = 8
 
 def choose_word():
